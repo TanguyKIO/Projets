@@ -1,0 +1,8 @@
+---------------------------------------------------------------------
+score : 0 | N° de la génération : 3 | Position : (0,0) | Nourriture ? : false | Arbre : 
+-IS_FOOD
+  -IS_HOME
+    -DEPOSE
+    -RECOLT
+  -GO_RIGHT
+

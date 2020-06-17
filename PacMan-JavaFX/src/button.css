@@ -1,0 +1,11 @@
+.button {
+  -fx-text-fill:white;
+  -fx-font-size : 16pt;
+  -fx-background-color: black;
+  -fx-border-color: white;
+  -fx-font-family: "Karmatic Arcade";
+}
+
+.button:hover {
+  -fx-background-color: blue;
+}

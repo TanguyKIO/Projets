@@ -1,0 +1,49 @@
+.columnleft{
+  position: absolute;
+  top:0;
+  left:0;
+  width:150px;
+}
+
+.vertical-menu {
+    float: left;
+    width: 150px;
+    padding-top:50px;
+    text-align: center;
+    height: 0px;
+}
+
+.vertical-menu a {
+    background-color: #337ab7;
+    font-size: 16px;
+    color: #2E2E2E;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.vertical-menu a:hover {
+    background-color: #23527c;
+    color: white;
+  }
+
+.columnleft .vertical-menu .active {
+    background-color: #23527c;
+    color: #FFFF;
+ }
+
+ .columnleft .vertical-menu .accueil {
+     font-weight: 600;
+  }
+
+.container .body-content .columnright{
+    text-align:center;
+  }
+
+.body-content {
+    position: absolute;
+    left: 160px;
+    top: 70px;
+    padding-right: 15px;
+}

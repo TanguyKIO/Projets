@@ -1,0 +1,4 @@
+---------------------------------------------------------------------
+score : 0 | N° de la génération : 2 | Position : (0,0) | Nourriture ? : false | Arbre : 
+-RECOLT
+
